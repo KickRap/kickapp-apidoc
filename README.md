@@ -31,5 +31,5 @@ apidoc-markdown -p . -o kickapp-apidoc.md
 ---
 
 ## Public documentation
-+ [HTML Doc access](https://interact-iv.github.io/kickapp-apidoc/ "Public doc access").
++ [HTML Doc access](https://kickrap.github.io/kickapp-apidoc/ "Public doc access").
 + [Markdown Doc access](kickapp-apidoc.md "Public markdown doc access").
